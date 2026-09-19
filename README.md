@@ -1,42 +1,46 @@
 <div align="center">
 
-# ⚡ SAKTHI.S
+# 🩸 SAKTHI.S
 
-### Electronics & Communication Engineering Student
+### `Electronics & Communication Engineering`
 
-**Embedded Systems • IoT • AI • Edge Technologies**
+<p>
+  <b>Embedded Systems</b>
+  &nbsp; • &nbsp;
+  <b>IoT</b>
+  &nbsp; • &nbsp;
+  <b>AI</b>
+  &nbsp; • &nbsp;
+  <b>Edge Technologies</b>
+</p>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF4B4B&center=true&vCenter=true&width=700&height=45&lines=Building+Ideas+Into+Real+World+Projects;Embedded+Systems+%7C+IoT+%7C+AI;Arduino+%7C+ESP32+%7C+Python;Always+Learning.+Always+Building." alt="Typing Animation">
-
-<br><br>
-
 <a href="https://github.com/sakthis6667-prog">
-<img src="https://img.shields.io/badge/GitHub-@sakthis6667--prog-161B22?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-@SAKTHIS6667--PROG-8B0000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/sakthi-s-251817383/">
-<img src="https://img.shields.io/badge/LinkedIn-Sakthi.S-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+<img src="https://img.shields.io/badge/LINKEDIN-SAKTHI.S-8B0000?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/_sparrow._06_/">
-<img src="https://img.shields.io/badge/Instagram-_sparrow._06_-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F">
+<img src="https://img.shields.io/badge/INSTAGRAM-_SPARROW._06_-8B0000?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="mailto:sakthis6667@gmail.com">
-<img src="https://img.shields.io/badge/Email-sakthis6667%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-8B0000?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sakthis6667-prog&label=PROFILE%20VIEWS&style=for-the-badge&color=FF4B4B">
+<img src="https://komarev.com/ghpvc/?username=sakthis6667-prog&label=PROFILE%20VIEWS&color=8B0000&style=for-the-badge">
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🩸 ABOUT ME
 
 <div align="center">
 
@@ -44,135 +48,100 @@
 
 </div>
 
-Hi! I'm **Sakthi.S**, an Electronics and Communication Engineering student at **Meenakshi College of Engineering**.
+I'm **Sakthi.S**, an Electronics and Communication Engineering student at **Meenakshi College of Engineering**.
 
-I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy learning new technologies and converting ideas into practical real-world projects using hardware and software.
+I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**.  
+I enjoy learning new technologies and turning ideas into practical projects.
 
 <div align="center">
 
-`⚡ BUILD` &nbsp; `🔧 EXPERIMENT` &nbsp; `🤖 LEARN` &nbsp; `🚀 IMPROVE`
+`⚡ BUILD` &nbsp;&nbsp;
+`🔧 EXPERIMENT` &nbsp;&nbsp;
+`🤖 LEARN` &nbsp;&nbsp;
+`🚀 IMPROVE`
 
 </div>
 
 ---
 
-## 🎓 Education
+## 🎓 EDUCATION
 
-<table width="100%">
-<tr>
-<td><b>Degree</b></td>
-<td>Bachelor of Engineering (B.E.)</td>
-</tr>
-<tr>
-<td><b>Department</b></td>
-<td>Electronics and Communication Engineering</td>
-</tr>
-<tr>
-<td><b>College</b></td>
-<td>Meenakshi College of Engineering</td>
-</tr>
-<tr>
-<td><b>Batch</b></td>
-<td>2024 – 2028</td>
-</tr>
-</table>
+| | Details |
+|---|---|
+| 🎓 **Degree** | Bachelor of Engineering (B.E.) |
+| 📡 **Department** | Electronics and Communication Engineering |
+| 🏫 **College** | Meenakshi College of Engineering |
+| 📅 **Batch** | 2024 – 2028 |
 
 ---
 
-## 🛠️ Technical Skills
+## 🔧 TECHNICAL SKILLS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=00979D">
+<img src="https://img.shields.io/badge/ARDUINO-8B0000?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/ESP32-8B0000?style=for-the-badge&logo=espressif&logoColor=white">
+<img src="https://img.shields.io/badge/PYTHON-8B0000?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SENSOR%20INTERFACING-8B0000?style=for-the-badge&logoColor=white">
 
-<img src="https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=E7352C">
+</div>
 
-<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB">
+### Areas of Interest
 
-<img src="https://img.shields.io/badge/Sensor%20Interfacing-161B22?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A">
+<div align="center">
 
-<br>
-
-<img src="https://img.shields.io/badge/Embedded%20Systems-161B22?style=for-the-badge&logo=arduino&logoColor=00979D">
-
-<img src="https://img.shields.io/badge/IoT-161B22?style=for-the-badge&logo=internetofthings&logoColor=FFFFFF">
-
-<img src="https://img.shields.io/badge/AI-161B22?style=for-the-badge&logo=google&logoColor=4285F4">
-
-<img src="https://img.shields.io/badge/Edge%20Technologies-161B22?style=for-the-badge&logo=googlecloud&logoColor=4285F4">
+`Embedded Systems` &nbsp; • &nbsp;
+`IoT` &nbsp; • &nbsp;
+`Artificial Intelligence` &nbsp; • &nbsp;
+`Edge Technologies`
 
 </div>
 
 ---
 
-## 🚀 Projects
+## 🚀 PROJECTS
 
-<table width="100%">
-<tr>
+### 🤖 Line Following Robot using Arduino
 
-<td width="50%" valign="top">
-
-### 🤖 Line Following Robot
-
-**Arduino Based Robotics Project**
-
-- Autonomous line-following robot
-- IR sensors for path detection
-- Arduino-based motor control
-- Sensor-based movement control
-- Practical experience in robotics
-- Sensor interfacing implementation
-
-</td>
-
-<td width="50%" valign="top">
+- Designed and developed an autonomous line-following robot.
+- Used IR sensors to detect and follow a predefined path.
+- Programmed Arduino for motor control based on sensor inputs.
+- Gained practical experience in robotics, embedded systems and sensor interfacing.
 
 ### 🆘 Voice-Activated SOS Edge Device
 
-**IoT & Edge Technology Project**
-
-- Voice-based emergency activation
-- ESP32-based implementation
-- Edge-device processing
-- SOS communication concept
-- Location-based emergency response
-- Low-latency voice activation
-
-</td>
-
-</tr>
-</table>
+- IoT-based emergency system.
+- Voice-based emergency activation concept.
+- ESP32-based implementation.
+- Edge-device processing concept.
+- Location-based SOS communication concept.
 
 ---
 
-## 📜 Certifications
+## 📜 CERTIFICATIONS
+
+| Certificate | Platform |
+|---|---|
+| 🏆 **Generative AI for UX Designers** | Coursera |
+| 🏆 **Active Listening: Enhancing Communication Skills** | Coursera |
+| 🏆 **Effective Time Management** | Infosys Springboard |
+| 🏆 **CRT:04 - Business Corporate Etiquette** | Infosys Springboard |
+
+---
+
+## 🤝 SOFT SKILLS
 
 <div align="center">
 
-| 🏆 Certification | 🎓 Platform |
-|:---|:---:|
-| **Generative AI for UX Designers** | Coursera |
-| **Active Listening: Enhancing Communication Skills** | Coursera |
-| **Effective Time Management** | Infosys Springboard |
-| **CRT:04 - Business Corporate Etiquette** | Infosys Springboard |
+**Teamwork** &nbsp; • &nbsp;
+**Communication** &nbsp; • &nbsp;
+**Adaptability**
 
 </div>
 
 ---
 
-## 🤝 Soft Skills
-
-<div align="center">
-
-🤝 **Teamwork**  
-💬 **Communication**  
-🔄 **Adaptability**
-
-</div>
-
----
-
-## 🌐 Languages
+## 🌐 LANGUAGES
 
 <div align="center">
 
@@ -182,87 +151,74 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 
 ---
 
-## 💡 Interests
+## 💡 INTERESTS
 
 <div align="center">
 
-🚀 Learning New Technologies
-
-🤖 Exploring AI and Embedded Systems
+🔹 Learning New Technologies  
+<br>
+🔹 Exploring AI and Embedded Systems
 
 </div>
 
 ---
 
-## 🎯 Career Objective
+## 🎯 CAREER OBJECTIVE
 
-<div align="center">
-
-> Motivated Electronics and Communication Engineering student seeking a fresher role where I can apply my Embedded Systems, AI and Programming skills while learning new technologies and contributing to innovative projects.
-
-</div>
+> Motivated Electronics and Communication Engineering student seeking a fresher role where I can apply my Embedded Systems, AI, and Programming skills while learning new technologies and contributing to innovative projects.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GITHUB
 
 <div align="center">
 
-<a href="https://github.com/sakthis6667-prog">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakthis6667-prog&theme=github_dark" width="95%" alt="GitHub Profile Summary">
-
-</a>
-
-<br><br>
+### 🔥 PROFILE
 
 <a href="https://github.com/sakthis6667-prog?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/REPOSITORIES-8B0000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/sakthis6667-prog?tab=followers">
-<img src="https://img.shields.io/badge/Followers-Connect-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/FOLLOWERS-8B0000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/sakthis6667-prog?tab=stars">
+<img src="https://img.shields.io/badge/STARS-8B0000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 📌 Quick Profile
+## 🐍 CONTRIBUTION JOURNEY
 
 <div align="center">
 
-| | Details |
-|:---:|:---|
-| 🎓 | **B.E. Electronics & Communication Engineering** |
-| 🏫 | **Meenakshi College of Engineering** |
-| 📅 | **2024 – 2028** |
-| 🔧 | **Arduino • ESP32 • Python** |
-| 🤖 | **AI • IoT • Embedded Systems** |
-| 🚀 | **Learning • Building • Innovating** |
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake">
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://github.com/sakthis6667-prog">
-<img src="https://img.shields.io/badge/GITHUB-@SAKTHIS6667--PROG-161B22?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-8B0000?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/sakthi-s-251817383/">
-<img src="https://img.shields.io/badge/LINKEDIN-SAKTHI.S-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+<img src="https://img.shields.io/badge/LINKEDIN-8B0000?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/_sparrow._06_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-_SPARROW._06_-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F">
+<img src="https://img.shields.io/badge/INSTAGRAM-8B0000?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <a href="mailto:sakthis6667@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335">
+<img src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -271,56 +227,18 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 
 <div align="center">
 
-## ⚡ Think it. Build it. Make it work.
+# 🩸
 
-### `Always Learning • Always Building • Always Improving`
+### **THINK IT. BUILD IT. MAKE IT WORK.**
 
-<br>
-
-**Sakthi.S**
+`ALWAYS LEARNING` &nbsp; • &nbsp; `ALWAYS BUILDING` &nbsp; • &nbsp; `ALWAYS IMPROVING`
 
 <br>
 
-<sub>© 2026 Sakthi.S • Built with curiosity & code</sub>
+**Sakthi.S © 2026**
+
+<br>
+
+<a href="#-sakthis">⬆️ BACK TO TOP</a>
 
 </div>
-
----
-
-<div align="center">
-
-### ⚡ **Think it. Build it. Make it work.**
-
-**Always Learning • Always Building • Always Improving**
-
-</div>
-
-
-<!-- ===================== CONTACT ===================== -->
-
-<h2 align="center">📞 Contact</h2>
-
-<p align="center">
-  📧 <b>sakthis6667@gmail.com</b><br>
-  📱 <b>+91 9629347968</b>
-</p>
-
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  <b>⚡ Think it. Build it. Make it work. ⚡</b>
-</p>
-
-<p align="center">
-  <i>Always learning • Always building • Always improving</i>
-</p>
-<p align="center">
-  <a href="https://github.com/sakthis6667-prog">
-    <img src="https://img.shields.io/badge/GitHub-@sakthis6667--prog-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" style="max-width: 720px;" alt="Footer" />
-</p>
