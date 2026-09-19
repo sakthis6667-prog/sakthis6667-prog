@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # ⚡ SAKTHI.S
@@ -26,7 +25,7 @@
 </a>
 
 <a href="mailto:sakthis6667@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335">
+<img src="https://img.shields.io/badge/Email-sakthis6667%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335">
 </a>
 
 <br><br>
@@ -41,7 +40,7 @@
 
 <div align="center">
 
-### **𝕴𝖋 𝕴 𝖈𝖆𝖓'𝖙, 𝖙𝖍𝖊𝖓 𝖓𝖔 𝖔𝖓𝖊 𝖈𝖆𝖓.**
+### 𝕴𝖋 𝕴 𝖈𝖆𝖓'𝖙, 𝖙𝖍𝖊𝖓 𝖓𝖔 𝖔𝖓𝖊 𝖈𝖆𝖓.
 
 </div>
 
@@ -51,7 +50,7 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 
 <div align="center">
 
-`⚡ BUILD` &nbsp; `🔧 EXPERIMENT` &nbsp; `🤖 LEARN` &nbsp; `🚀 IMPROVE`
+`⚡ BUILD` • `🔧 EXPERIMENT` • `🤖 LEARN` • `🚀 IMPROVE`
 
 </div>
 
@@ -59,19 +58,22 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 
 ## 🎓 Education
 
-<table width="100%">
+<table>
 <tr>
 <td><b>Degree</b></td>
 <td>Bachelor of Engineering (B.E.)</td>
 </tr>
+
 <tr>
 <td><b>Department</b></td>
 <td>Electronics and Communication Engineering</td>
 </tr>
+
 <tr>
 <td><b>College</b></td>
 <td>Meenakshi College of Engineering</td>
 </tr>
+
 <tr>
 <td><b>Batch</b></td>
 <td>2024 – 2028</td>
@@ -85,15 +87,21 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 <div align="center">
 
 <img src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=00979D">
+
 <img src="https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=E7352C">
+
 <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB">
+
 <img src="https://img.shields.io/badge/Sensor%20Interfacing-161B22?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A">
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Embedded%20Systems-161B22?style=for-the-badge&logo=arduino&logoColor=00979D">
+
 <img src="https://img.shields.io/badge/IoT-161B22?style=for-the-badge&logo=internetofthings&logoColor=FFFFFF">
+
 <img src="https://img.shields.io/badge/AI-161B22?style=for-the-badge&logo=google&logoColor=4285F4">
+
 <img src="https://img.shields.io/badge/Edge%20Technologies-161B22?style=for-the-badge&logo=googlecloud&logoColor=4285F4">
 
 </div>
@@ -102,7 +110,7 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 
 ## 🚀 Projects
 
-<table width="100%">
+<table>
 <tr>
 
 <td width="50%" valign="top">
@@ -142,26 +150,25 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 
 ## 📜 Certifications & Workshops
 
-<div align="center">
-
 | 🏆 Certification / Workshop | 🎓 Platform / Institution |
-|:---|:---:|
+|---|---|
 | **Generative AI for UX Designers** | Coursera |
 | **Active Listening: Enhancing Communication Skills** | Coursera |
 | **Effective Time Management** | Infosys Springboard |
 | **CRT:04 - Business Corporate Etiquette** | Infosys Springboard |
 | **Long-Range Wireless Communication using LoRa & ESP32** | VIT Vellore |
 
-</div>
+### 📡 VIT Vellore Workshop
 
-### 🔹 VIT Workshop
+**Long-Range Wireless Communication using LoRa & ESP32**
 
-> **Long-Range Wireless Communication using LoRa & ESP32**  
-> *From Fundamentals to Building a Real Long-Range Wireless Network*
+*From Fundamentals to Building a Real Long-Range Wireless Network*
 
-**Industry-Academia Conclave 2026**  
+**Industry-Academia Conclave 2026**
+
 Department of Sensor and Biomedical Technology  
-Vellore Institute of Technology, Vellore  
+Vellore Institute of Technology, Vellore
+
 **08 September 2026**
 
 ---
@@ -170,9 +177,7 @@ Vellore Institute of Technology, Vellore
 
 <div align="center">
 
-🤝 **Teamwork** &nbsp; • &nbsp;
-💬 **Communication** &nbsp; • &nbsp;
-🔄 **Adaptability**
+🤝 **Teamwork** • 💬 **Communication** • 🔄 **Adaptability**
 
 </div>
 
@@ -182,7 +187,7 @@ Vellore Institute of Technology, Vellore
 
 <div align="center">
 
-🇮🇳 **Tamil** &nbsp;&nbsp;&nbsp; 🇬🇧 **English**
+🇮🇳 **Tamil** • 🇬🇧 **English**
 
 </div>
 
@@ -202,11 +207,7 @@ Vellore Institute of Technology, Vellore
 
 ## 🎯 Career Objective
 
-<div align="center">
-
 > Motivated Electronics and Communication Engineering student seeking a fresher role where I can apply my Embedded Systems, AI and Programming skills while learning new technologies and contributing to innovative projects.
-
-</div>
 
 ---
 
@@ -214,11 +215,7 @@ Vellore Institute of Technology, Vellore
 
 <div align="center">
 
-<a href="https://github.com/sakthis6667-prog">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakthis6667-prog&theme=github_dark" width="95%" alt="GitHub Profile Summary">
-
-</a>
 
 <br><br>
 
@@ -239,7 +236,7 @@ Vellore Institute of Technology, Vellore
 <div align="center">
 
 | | Details |
-|:---:|:---|
+|---|---|
 | 🎓 | **B.E. Electronics & Communication Engineering** |
 | 🏫 | **Meenakshi College of Engineering** |
 | 📅 | **2024 – 2028** |
@@ -280,11 +277,13 @@ Vellore Institute of Technology, Vellore
 
 # 🔥 SAKTHI.S
 
-### **𝕿𝖍𝖊 𝖏𝖔𝖚𝖗𝖓𝖊𝖞 𝖎𝖘 𝖏𝖚𝖘𝖙 𝖇𝖊𝖌𝖎𝖓𝖓𝖎𝖓𝖌.**
+### 𝕿𝖍𝖊 𝖏𝖔𝖚𝖗𝖓𝖊𝖞 𝖎𝖘 𝖏𝖚𝖘𝖙 𝖇𝖊𝖌𝖎𝖓𝖓𝖎𝖓𝖌.
+
+<br>
 
 `⚡ Always Learning` • `🔧 Always Building` • `🚀 Always Improving`
 
-<br>
+<br><br>
 
 **Think it. Build it. Make it work.**
 
@@ -293,4 +292,3 @@ Vellore Institute of Technology, Vellore
 <sub>© 2026 Sakthi.S • Built with curiosity & code</sub>
 
 </div>
-```
