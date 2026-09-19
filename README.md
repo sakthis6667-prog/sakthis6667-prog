@@ -1,36 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:123B5D,75:5B0A18,100:0D1117&height=220&section=header&text=SAKTHI.S&fontSize=65&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn" width="100%"/>
-
-### ◆ Electronics & Communication Engineering ◆
-
-**Embedded Systems • IoT • AI • Edge Technologies**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=SAKTHI.S&fontSize=68&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&gradient=1&color=0:07111F,35:0B2942,70:3B1024,100:0D1117" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Welcome+to+my+Domain;Embedded+Systems+%7C+IoT+%7C+AI;Arduino+%7C+ESP32+%7C+Python;Learn.+Build.+Experiment.+Evolve.;Turning+Ideas+Into+Real+Systems." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&height=55&lines=Electronics+%26+Communication+Engineering;Embedded+Systems+%7C+IoT+%7C+Artificial+Intelligence;ESP32+%7C+Arduino+%7C+Python+%7C+Edge+Technologies;Learning+%E2%80%A2+Building+%E2%80%A2+Experimenting+%E2%80%A2+Evolving" alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://github.com/sakthis6667-prog">
-<img src="https://img.shields.io/badge/GITHUB-SAKTHIS6667--PROG-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-Sakthis6667--prog-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/sakthi-s-251817383/">
-<img src="https://img.shields.io/badge/LINKEDIN-SAKTHI.S-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-Sakthi.S-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
 </a>
-
+&nbsp;
 <a href="https://www.instagram.com/_sparrow._06_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-_SPARROW._06_-0D1117?style=for-the-badge&logo=instagram&logoColor=E1306C"/>
-</a>
-
-<a href="mailto:sakthis6667@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Instagram-_sparrow._06_-161B22?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=sakthis6667-prog&label=PROFILE%20VIEWS&style=for-the-badge&color=123B5D"/>
+<a href="mailto:sakthis6667@gmail.com">
+<img src="https://img.shields.io/badge/Email-sakthis6667%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sakthis6667-prog&label=PROFILE%20VIEWS&color=123B5D&style=for-the-badge"/>
 
 </div>
 
@@ -38,152 +36,67 @@
 
 <div align="center">
 
-# ◈ AZURE CORE × CRIMSON WILL ◈
+# ABOUT ME
 
-### `◆ LEARN` &nbsp;&nbsp; `◈ BUILD` &nbsp;&nbsp; `✦ EVOLVE`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=header"/>
+### Building with Electronics. Learning with Technology.
 
 </div>
 
-# ◆ About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=58A6FF" width="85%"/>
+</p>
+
+I'm **Sakthi.S**, an Electronics and Communication Engineering student at **Meenakshi College of Engineering**.
+
+I am interested in **Embedded Systems, IoT, Artificial Intelligence, Edge Technologies and Wireless Communication**.
+
+I enjoy working with both **hardware and software**, experimenting with microcontrollers, sensors and intelligent systems, and turning ideas into practical projects.
 
 <div align="center">
 
-## 𝕴𝖋 𝕴 𝖈𝖆𝖓'𝖙, 𝖙𝖍𝖊𝖓 𝖓𝖔 𝖔𝖓𝖊 𝖈𝖆𝖓.
-
-</div>
-
-Hi! I'm **Sakthi.S**, an Electronics and Communication Engineering student at **Meenakshi College of Engineering**.
-
-I'm interested in **Embedded Systems, IoT, Artificial Intelligence and Edge Technologies**.
-
-I enjoy combining **hardware + software** to build practical systems and experiment with new technologies.
-
-<div align="center">
-
-**Learn → Build → Experiment → Improve → Evolve**
+### `LEARN` &nbsp; → &nbsp; `BUILD` &nbsp; → &nbsp; `EXPERIMENT` &nbsp; → &nbsp; `EVOLVE`
 
 </div>
 
 ---
 
-# ◈ My Domain
-
 <div align="center">
+
+# CURRENT FOCUS
 
 <table>
 <tr>
 
-<td align="center" width="250">
+<td width="280" align="center">
 
-### 💠
-
-## AZURE CORE
-
-**Logic**
-
-**Learning**
-
-**Innovation**
+### EMBEDDED SYSTEMS
 
 Arduino  
 ESP32  
-Python  
-IoT
+Microcontrollers  
+Sensor Interfacing
 
 </td>
 
-<td align="center" width="250">
+<td width="280" align="center">
 
-### ◆
-
-## CRIMSON WILL
-
-**Discipline**
-
-**Creativity**
-
-**Determination**
-
-Projects  
-Problem Solving  
-Experimentation
-
-</td>
-
-<td align="center" width="250">
-
-### ✦
-
-## EDGE PATH
-
-**AI**
-
-**Edge Computing**
-
-**Real-World Systems**
-
-TinyML  
-Sensors  
-Wireless
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B5D,100:5B0A18&height=110&section=header" width="100%"/>
-
-# ◈ Current Focus
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="250">
-
-### 💠
-
-## EMBEDDED SYSTEMS
-
-Arduino  
-ESP32  
-Sensors  
-Microcontrollers
-
-</td>
-
-<td align="center" width="250">
-
-### ◆
-
-## INTERNET OF THINGS
+### INTERNET OF THINGS
 
 IoT  
 LoRa  
-Wireless  
-Connected Systems
+Wireless Communication  
+Connected Devices
 
 </td>
 
-<td align="center" width="250">
+<td width="280" align="center">
 
-### ✦
-
-## ARTIFICIAL INTELLIGENCE
+### ARTIFICIAL INTELLIGENCE
 
 AI  
 Machine Learning  
-Edge AI  
-TinyML
+TinyML  
+Edge AI
 
 </td>
 
@@ -191,207 +104,233 @@ TinyML
 
 <tr>
 
-<td align="center" width="250">
+<td width="280" align="center">
 
-### ◈
+### EDGE TECHNOLOGIES
 
-## EDGE TECHNOLOGIES
-
-Low Latency  
 Edge Computing  
-Real-Time Systems
+Low Latency  
+Real-Time Processing  
+Smart Devices
 
 </td>
 
-<td align="center" width="250">
+<td width="280" align="center">
 
-### ⚔
-
-## REAL-WORLD PROJECTS
+### REAL-WORLD PROJECTS
 
 Hardware  
 Software  
+Automation  
+Problem Solving
+
+</td>
+
+<td width="280" align="center">
+
+### CONTINUOUS LEARNING
+
+New Technologies  
+Experimentation  
+Research  
 Innovation
 
 </td>
 
-<td align="center" width="250">
-
-### ✧
-
-## CONTINUOUS LEARNING
-
-Learn  
-Build  
-Experiment  
-Evolve
-
-</td>
-
 </tr>
 </table>
-
-<br>
-
-✦ ━━━━━━━━━━━━━━━━━ ◆ ━━━━━━━━━━━━━━━━━ ✦
 
 </div>
 
 ---
 
-# ◆ Technical Arsenal
-
 <div align="center">
 
-### 💠 CORE TECHNOLOGIES
+<img src="https://capsule-render.vercel.app/api?type=rect&height=110&section=header&text=TECHNICAL%20ARSENAL&fontSize=30&fontColor=FFFFFF&animation=fadeIn&color=0D1117&stroke=123B5D&strokeWidth=2" width="100%"/>
 
-<img src="https://skillicons.dev/icons?i=arduino,python,cpp,github,vscode&theme=dark"/>
+<br>
+
+<img src="https://skillicons.dev/icons?i=arduino,python,cpp,github,vscode&theme=dark" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/IoT-0D1117?style=for-the-badge&logo=internetofthings&logoColor=58A6FF"/>
 <img src="https://img.shields.io/badge/Embedded%20Systems-0D1117?style=for-the-badge&logo=arduino&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Sensor%20Interfacing-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=58A6FF"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=google&logoColor=DC143C"/>
-<img src="https://img.shields.io/badge/Edge%20Computing-0D1117?style=for-the-badge&logo=googlecloud&logoColor=DC143C"/>
-<img src="https://img.shields.io/badge/Wireless%20Communication-0D1117?style=for-the-badge&logo=wifi&logoColor=DC143C"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=google&logoColor=E63946"/>
+<img src="https://img.shields.io/badge/Edge%20Computing-0D1117?style=for-the-badge&logo=googlecloud&logoColor=E63946"/>
+<img src="https://img.shields.io/badge/Sensor%20Interfacing-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=E63946"/>
 
 </div>
 
 ---
 
-# ◈ Projects
-
-<div align="center">
+# PROJECTS
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 💠 Line Following Robot
+## Line Following Robot
 
-### `Arduino × IR Sensors × Robotics`
+**Arduino × IR Sensors × Robotics**
 
-- Autonomous line-following robot
-- IR sensor-based path detection
-- Arduino motor control
-- Sensor-based movement
-- Embedded programming
-- Practical sensor interfacing
+A practical autonomous robot designed to detect and follow a predefined path.
 
-**STATUS:** `COMPLETED ◆`
+**Core Work**
+- Arduino programming
+- IR sensor interfacing
+- Motor control
+- Autonomous movement
+- Embedded systems
+
+`COMPLETED`
 
 </td>
 
 <td width="50%" valign="top">
 
-## ◆ Voice-Activated SOS
+## Voice-Activated SOS
 
-### `ESP32 × IoT × Edge`
+**ESP32 × Edge × IoT**
 
-- Voice-based emergency activation
-- ESP32-based implementation
-- Edge-device processing
-- SOS communication concept
-- Location-based emergency response
-- Low-latency voice activation
+A smart emergency system concept using voice activation for rapid SOS communication.
 
-**STATUS:** `IN DEVELOPMENT ✦`
+**Core Work**
+- ESP32
+- Voice activation
+- Edge processing
+- Emergency communication
+- Location-based response
+
+`IN DEVELOPMENT`
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
-
-# ◆ Education
 
 <div align="center">
 
-| ◆ | Details |
-|---|---|
-| 🎓 **Degree** | Bachelor of Engineering (B.E.) |
-| 📡 **Department** | Electronics & Communication Engineering |
-| 🏫 **College** | Meenakshi College of Engineering |
-| 📅 **Batch** | 2024 – 2028 |
+# EDUCATION
 
-</div>
+### Bachelor of Engineering — Electronics & Communication Engineering
 
----
+**Meenakshi College of Engineering**
 
-# ◈ Certifications
-
-<div align="center">
-
-| ✦ Certification | Institution |
-|---|---|
-| **Generative AI for UX Designers** | Coursera |
-| **Active Listening: Enhancing Communication Skills** | Coursera |
-| **Effective Time Management** | Infosys Springboard |
-| **CRT:04 - Business Corporate Etiquette** | Infosys Springboard |
-| **Long-Range Wireless Communication using LoRa & ESP32** | VIT Vellore |
+`2024 — 2028`
 
 </div>
 
 ---
 
-# 💠 VIT Vellore Workshop
-
-<div align="center">
-
-### ✦ LONG-RANGE WIRELESS COMMUNICATION ✦
-
-**Using LoRa & ESP32**
-
-`From Fundamentals to Building a Real Long-Range Wireless Network`
-
-<br>
-
-**Industry-Academia Conclave 2026**
-
-**Vellore Institute of Technology, Vellore**
-
-**08 September 2026**
-
-<br>
-
-<img src="./assets/vit-lora-workshop.png" width="85%" alt="VIT LoRa and ESP32 Workshop Certificate"/>
-
-</div>
-
----
-
-# ◆ Certificate Showcase
-
-<div align="center">
+# CERTIFICATIONS
 
 <table>
-
 <tr>
 
-<td align="center">
+<td width="50%">
 
-### COURSERA
+### Coursera
 
-<img src="./assets/coursera-active-listening.png" width="430" alt="Coursera Certificate"/>
+**Generative AI for UX Designers**
 
 **Active Listening: Enhancing Communication Skills**
 
 </td>
 
-<td align="center">
+<td width="50%">
+
+### Infosys Springboard
+
+**Effective Time Management**
+
+**Business Corporate Etiquette**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### VIT Vellore
+
+**Long-Range Wireless Communication using LoRa & ESP32**
+
+Industry-Academia Conclave 2026
+
+</td>
+
+<td width="50%">
+
+### Focus Areas
+
+Embedded Systems  
+IoT  
+AI  
+Wireless Communication
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# VIT VELLORE WORKSHOP
+
+### Long-Range Wireless Communication using LoRa & ESP32
+
+**From Fundamentals to Building a Real Long-Range Wireless Network**
+
+**Industry-Academia Conclave 2026**
+
+**Vellore Institute of Technology, Vellore**
+
+`08 September 2026`
+
+<br>
+
+<img src="./assets/vit-lora-workshop.png" width="90%" alt="VIT LoRa and ESP32 Workshop Certificate"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# CERTIFICATE SHOWCASE
+
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="50%">
+
+### COURSERA
+
+<img src="./assets/coursera-active-listening.png" width="90%" alt="Coursera Certificate"/>
+
+**Active Listening: Enhancing Communication Skills**
+
+</td>
+
+<td align="center" width="50%">
 
 ### INFOSYS
 
-<img src="./assets/infosys-time-management.png" width="430" alt="Infosys Certificate"/>
+<img src="./assets/infosys-time-management.png" width="90%" alt="Infosys Certificate"/>
 
 **Effective Time Management**
 
@@ -401,58 +340,55 @@ Evolve
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
 ### INFOSYS
 
-<img src="./assets/infosys-corporate-etiquette.png" width="430" alt="Infosys Certificate"/>
+<img src="./assets/infosys-corporate-etiquette.png" width="90%" alt="Infosys Certificate"/>
 
 **Business Corporate Etiquette**
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
 ### COURSERA
 
-<img src="./assets/coursera-genai.png" width="430" alt="Coursera Certificate"/>
+<img src="./assets/coursera-genai.png" width="90%" alt="Coursera Certificate"/>
 
 **Generative AI for UX Designers**
 
 </td>
 
 </tr>
-
 </table>
-
-</div>
 
 ---
 
-# ◈ Skills Evolution
-
 <div align="center">
 
+# SKILLS EVOLUTION
+
 ```text
-                  ◆
-                  │
-             Arduino
-                  │
-                  ▼
-                ESP32
-                  │
-                  ▼
-        Sensors & Embedded
-                  │
-                  ▼
-          IoT & Wireless
-                  │
-                  ▼
-             AI / TinyML
-                  │
-                  ▼
-          Edge Technologies
-                  │
-                  ▼
-        REAL-WORLD SYSTEMS
-                  ◆
+                 EMBEDDED SYSTEMS
+                        │
+                        ▼
+                      ESP32
+                        │
+                        ▼
+              SENSOR INTERFACING
+                        │
+                        ▼
+                       IoT
+                        │
+                        ▼
+              WIRELESS COMMUNICATION
+                        │
+                        ▼
+                  AI / TinyML
+                        │
+                        ▼
+                EDGE TECHNOLOGIES
+                        │
+                        ▼
+                 SMART SYSTEMS
