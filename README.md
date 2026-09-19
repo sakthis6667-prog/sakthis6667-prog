@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # ⚡ SAKTHI.S
@@ -25,7 +26,7 @@
 </a>
 
 <a href="mailto:sakthis6667@gmail.com">
-<img src="https://img.shields.io/badge/Email-sakthis6667%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335">
+<img src="https://img.shields.io/badge/Email-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335">
 </a>
 
 <br><br>
@@ -84,21 +85,15 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 <div align="center">
 
 <img src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=00979D">
-
 <img src="https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=E7352C">
-
 <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=3776AB">
-
 <img src="https://img.shields.io/badge/Sensor%20Interfacing-161B22?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A">
 
 <br>
 
 <img src="https://img.shields.io/badge/Embedded%20Systems-161B22?style=for-the-badge&logo=arduino&logoColor=00979D">
-
 <img src="https://img.shields.io/badge/IoT-161B22?style=for-the-badge&logo=internetofthings&logoColor=FFFFFF">
-
 <img src="https://img.shields.io/badge/AI-161B22?style=for-the-badge&logo=google&logoColor=4285F4">
-
 <img src="https://img.shields.io/badge/Edge%20Technologies-161B22?style=for-the-badge&logo=googlecloud&logoColor=4285F4">
 
 </div>
@@ -145,18 +140,29 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Workshops
 
 <div align="center">
 
-| 🏆 Certification | 🎓 Platform |
+| 🏆 Certification / Workshop | 🎓 Platform / Institution |
 |:---|:---:|
 | **Generative AI for UX Designers** | Coursera |
 | **Active Listening: Enhancing Communication Skills** | Coursera |
 | **Effective Time Management** | Infosys Springboard |
 | **CRT:04 - Business Corporate Etiquette** | Infosys Springboard |
+| **Long-Range Wireless Communication using LoRa & ESP32** | VIT Vellore |
 
 </div>
+
+### 🔹 VIT Workshop
+
+> **Long-Range Wireless Communication using LoRa & ESP32**  
+> *From Fundamentals to Building a Real Long-Range Wireless Network*
+
+**Industry-Academia Conclave 2026**  
+Department of Sensor and Biomedical Technology  
+Vellore Institute of Technology, Vellore  
+**08 September 2026**
 
 ---
 
@@ -164,8 +170,8 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 
 <div align="center">
 
-🤝 **Teamwork**  
-💬 **Communication**  
+🤝 **Teamwork** &nbsp; • &nbsp;
+💬 **Communication** &nbsp; • &nbsp;
 🔄 **Adaptability**
 
 </div>
@@ -238,7 +244,8 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 | 🏫 | **Meenakshi College of Engineering** |
 | 📅 | **2024 – 2028** |
 | 🔧 | **Arduino • ESP32 • Python** |
-| 🤖 | **AI • IoT • Embedded Systems** |
+| 📡 | **LoRa • IoT • Embedded Systems** |
+| 🤖 | **AI • Edge Technologies** |
 | 🚀 | **Learning • Building • Innovating** |
 
 </div>
@@ -271,16 +278,19 @@ I'm interested in **Embedded Systems, IoT, AI and Edge Technologies**. I enjoy l
 
 <div align="center">
 
-## ⚡ Think it. Build it. Make it work.
+# 🔥 SAKTHI.S
 
-### `Always Learning • Always Building • Always Improving`
+### **𝕿𝖍𝖊 𝖏𝖔𝖚𝖗𝖓𝖊𝖞 𝖎𝖘 𝖏𝖚𝖘𝖙 𝖇𝖊𝖌𝖎𝖓𝖓𝖎𝖓𝖌.**
+
+`⚡ Always Learning` • `🔧 Always Building` • `🚀 Always Improving`
 
 <br>
 
-**Sakthi.S**
+**Think it. Build it. Make it work.**
 
 <br>
 
 <sub>© 2026 Sakthi.S • Built with curiosity & code</sub>
 
 </div>
+```
